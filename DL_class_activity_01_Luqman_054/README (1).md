@@ -6,10 +6,9 @@
 | **Student** | Luqman Khan |
 | **SID** | S202266054 |
 | **Section** | V1 |
-| **Group partner** | _(add name and ID, group size is 2)_ |
 | **Course** | CS4152 – Deep Learning and Neural Networks, Fall 2026 |
 | **Submitted to** | Dr. Jameel Ahmad |
-| **Submission date** | Oct 22, 2026 |
+
 
 ---
 
