@@ -12,7 +12,7 @@
 
 ---
 
-## Overview
+## Overview.
 
 This project covers the practical side of neural networks with **Keras** and **TensorFlow**. It starts with a **regression** problem, moves to **binary** and **multiclass classification**, and finishes with **regularization** and **saving, loading and managing trained models**.
 
